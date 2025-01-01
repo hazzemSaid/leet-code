@@ -19,5 +19,10 @@
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/hazzemSaid/leet-code/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/hazzemSaid/leet-code/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
