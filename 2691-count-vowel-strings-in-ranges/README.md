@@ -37,3 +37,6 @@ We return [2,3,0].
 	<li><code>1 &lt;= queries.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= l<sub>i</sub> &lt;= r<sub>i</sub> &lt;&nbsp;words.length</code></li>
 </ul>
+<p>https://leetcode.com/problems/count-vowel-strings-in-ranges/solutions/6218896/counting-vowel-bounded-strings-using-pre-hkcq/
+</p>
+
