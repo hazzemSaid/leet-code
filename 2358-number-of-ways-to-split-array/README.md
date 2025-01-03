@@ -41,3 +41,4 @@ There are two valid splits in nums:
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+<p> https://leetcode.com/problems/number-of-ways-to-split-array/solutions/6221054/split-with-confidence-a-dive-into-prefix-5x3m/ </p>
