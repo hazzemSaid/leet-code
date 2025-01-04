@@ -49,3 +49,4 @@
 	<li><code>3 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of only lowercase English letters.</li>
 </ul>
+<p>https://leetcode.com/problems/unique-length-3-palindromic-subsequences/solutions/6227533/master-palindromes-step-by-step-a-beginn-yyva/</p>
