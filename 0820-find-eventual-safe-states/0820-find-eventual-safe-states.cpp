@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         map<int,vector<int>>mp;
-        priority_queue<int>t;
+       queue<int>t;
         int n=graph.size();
         vector<int>out(n);
         for(int i=0;i<n;i++){
@@ -14,7 +14,7 @@ public:
         }
         vector<bool>vis(n,false);
         while(!t.empty()){
-            auto it=t.top();
+            auto it=t.front();
             t.pop();
             vis[it]=1;
             for(auto &i:mp[it]){
