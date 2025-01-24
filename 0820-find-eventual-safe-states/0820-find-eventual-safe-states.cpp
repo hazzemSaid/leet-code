@@ -1,27 +1,26 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+       
+        map<int,vector<int>>mp;
+        priority_queue<int>t;
         int n=graph.size();
-        set<int>blocked;
         vector<int>ans;
-for(int k=0;k<n;k++)
-{        
-    bool con=true;
-    for(int i=0;i<n;i++){
-            bool lol=true;
+        vector<int>out(n);
+        for(int i=0;i<n;i++){
             for(auto &it:graph[i]){
-                if(blocked.find(it) == blocked.end()){
-                    lol=false;
-                    break;
-                }
+                mp[it].push_back(i);
+                out[i]++;
             }
-            if(lol and blocked.find(i)==blocked.end()){
-                ans.push_back(i);
-                blocked.insert(i);
-                    con =false;
-                }
+            if(out[i] == 0)t.push(i);
         }
-        if(con)break;
+        while(!t.empty()){
+            auto it=t.top();
+            t.pop();
+            ans.push_back(it);
+            for(auto &i:mp[it]){
+                if(--out[i] == 0)t.push(i);
+            }
         }
         sort(ans.begin(),ans.end());
         return ans;
