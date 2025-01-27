@@ -1,47 +1,44 @@
 class Solution {
 public:
     vector<bool> checkIfPrerequisite(int num, vector<vector<int>>& pre, vector<vector<int>>& queries) {
-        // Adjacency list for graph
-        vector<vector<int>> graph(num);
-        vector<int> indeg(num, 0);
-        vector<set<int>> prerequisites(num); // Store prerequisites for each course
-        
-        // Build the graph and calculate in-degrees
-        for (auto& edge : pre) {
-            int u = edge[0], v = edge[1];
-            graph[u].push_back(v);
-            indeg[v]++;
+        int n=pre.size();
+        vector<int>indeg(num,0);
+        vector<set<int>>v(num);
+        unordered_map<int,vector<int>>graph;
+        for(auto &it:pre){
+            int x=it[0];
+            int y=it[1];
+            graph[x].push_back(y);
+            indeg[y]++;
         }
-        
-        // Topological sort using BFS
-        queue<int> topo;
-        for (int i = 0; i < num; i++) {
-            if (indeg[i] == 0) {
-                topo.push(i);
+        queue<int>topo;
+        for(int i=0;i<num;i++){
+            if(indeg[i] == 0){
+                    topo.push({i});
             }
         }
-        
-        while (!topo.empty()) {
-            int node = topo.front();
+        while(!topo.empty()){
+            auto it=topo.front();
             topo.pop();
-            
-            // Add current node's prerequisites to its neighbors
-            for (int neighbor : graph[node]) {
-                prerequisites[neighbor].insert(prerequisites[node].begin(), prerequisites[node].end());
-                prerequisites[neighbor].insert(node);
-                
-                // Decrease in-degree and push to queue if zero
-                if (--indeg[neighbor] == 0) {
-                    topo.push(neighbor);
+            for(auto nie:graph[it]){
+                v[nie].insert(v[it].begin(),v[it].end());
+                v[nie].insert(it);
+                if(--indeg[nie] == 0){
+                    topo.push(nie);
                 }
             }
         }
-        
-        // Answer queries
-        vector<bool> ans;
-        for (auto& query : queries) {
-            int u = query[0], v = query[1];
-            ans.push_back(prerequisites[v].count(u) > 0);
+        // for(int i=0;i<num;i++){
+        //     cout<<i<<" ->>>"<<endl;;
+        //     for(auto it:v[i])cout<<it<<" ";
+        //     cout<<endl;
+        // }
+        vector<bool>ans;
+        for(int i=0;i<queries.size();i++){
+            int y=queries[i][0];
+            int x=queries[i][1];
+            if(v[x].find(y) == v[x].end())ans.push_back(false);
+            else ans.push_back(true);
         }
         return ans;
     }
