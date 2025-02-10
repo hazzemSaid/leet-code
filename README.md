@@ -32,6 +32,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/hazzemSaid/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hazzemSaid/leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
