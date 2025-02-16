@@ -57,6 +57,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hazzemSaid/leet-code/tree/master/1524-string-matching-in-an-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hazzemSaid/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/hazzemSaid/leet-code/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hazzemSaid/leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hazzemSaid/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hazzemSaid/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
