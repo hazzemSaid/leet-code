@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -66,6 +67,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/hazzemSaid/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hazzemSaid/leet-code/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hazzemSaid/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/hazzemSaid/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hazzemSaid/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
 ## Design
 |  |
