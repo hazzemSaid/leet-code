@@ -58,6 +58,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/hazzemSaid/leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -265,5 +266,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
