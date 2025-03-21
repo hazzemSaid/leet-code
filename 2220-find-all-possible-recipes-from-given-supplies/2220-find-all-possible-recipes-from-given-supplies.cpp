@@ -11,8 +11,8 @@ public:
             }
         }
         queue<string>q;
-        for(auto it:supplies){
-           for(auto i: nie_mp[it]){
+        for(auto &it:supplies){
+           for(auto &i: nie_mp[it]){
             if(--top_mp[i] == 0){
                 q.push(i);
             }
@@ -23,7 +23,7 @@ public:
             string item=q.front();
              q.pop();
              ans.push_back(item);
-            for(auto i: nie_mp[item]){
+            for(auto &i: nie_mp[item]){
             if(--top_mp[i] == 0){
                 q.push(i);
             }
