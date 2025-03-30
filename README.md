@@ -15,12 +15,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/hazzemSaid/leet-code/tree/master/0640-solve-the-equation) |
+| [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hazzemSaid/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -95,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) |
@@ -138,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hazzemSaid/leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
