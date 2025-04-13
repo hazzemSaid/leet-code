@@ -257,6 +257,7 @@
 | ------- |
 | [0640-solve-the-equation](https://github.com/hazzemSaid/leet-code/tree/master/0640-solve-the-equation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
@@ -316,4 +317,8 @@
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
