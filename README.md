@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
@@ -309,6 +310,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
