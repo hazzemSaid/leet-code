@@ -357,4 +357,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hazzemSaid/leet-code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
