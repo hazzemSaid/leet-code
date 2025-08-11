@@ -57,6 +57,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/hazzemSaid/leet-code/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hazzemSaid/leet-code/tree/master/2465-shifting-letters-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hazzemSaid/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 ## Array
@@ -90,6 +91,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hazzemSaid/leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hazzemSaid/leet-code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) |
@@ -136,6 +138,7 @@
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/hazzemSaid/leet-code/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hazzemSaid/leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) |
