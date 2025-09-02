@@ -102,6 +102,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hazzemSaid/leet-code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hazzemSaid/leet-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
@@ -275,6 +276,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -285,6 +287,7 @@
 | [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 ## Simulation
 |  |
@@ -349,6 +352,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
@@ -367,4 +371,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hazzemSaid/leet-code/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
