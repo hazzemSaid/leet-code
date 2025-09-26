@@ -17,6 +17,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -92,6 +93,7 @@
 | [2465-shifting-letters-ii](https://github.com/hazzemSaid/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hazzemSaid/leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -174,6 +176,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hazzemSaid/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hazzemSaid/leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/hazzemSaid/leet-code/tree/master/2509-minimize-xor) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) |
 ## Counting
@@ -278,6 +281,7 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
