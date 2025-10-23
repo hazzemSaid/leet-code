@@ -61,6 +61,7 @@
 | [2465-shifting-letters-ii](https://github.com/hazzemSaid/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hazzemSaid/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
@@ -111,6 +112,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hazzemSaid/leet-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hazzemSaid/leet-code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) |
@@ -288,6 +290,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -337,12 +340,14 @@
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
