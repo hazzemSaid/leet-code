@@ -69,6 +69,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) |
+| [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
@@ -176,6 +177,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hazzemSaid/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -286,6 +288,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hazzemSaid/leet-code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
