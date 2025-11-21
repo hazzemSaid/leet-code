@@ -1,53 +1,38 @@
 class Solution {
 public:
-int duplicate(int l,int r, vector<vector<int>>&frq){
-    int cnt=0;
-    for(char i = 'a';i<='z' ;i++){
-        //if have dublicated char more than 1 
-        if(frq[r][i-'a']-frq[l][i-'a'] >1)
-        cnt+=(frq[r][i-'a']-frq[l][i-'a'])-1;
-    }
-    return cnt;
-}
     int countPalindromicSubsequence(string s) {
-        int sz=s.size();
+        int n = s.size();
+        vector<vector<int>> prf(n, vector<int>(26, 0));
+        vector<vector<int>> suf(n, vector<int>(26, 0));
 
-        //make the mapping to store the minmum index for char i-th
-        map<char,int>mp;
-        //make frequence for all char from 'a' to 'z' into all ith
-        vector<vector<int>>frq;
-        //globel frequence 
-        vector<int>f(500,0);
-
-        for(int i=0;i<sz;i++){
-            //if not found this is a minimum index for char ith
-            if(mp.find(s[i]) == mp.end()){
-                mp[s[i]]=i;
-            }
-            //add into globel frequence
-            f[s[i]-'a']++;
-            //add into ith
-            frq.push_back(f);
+        // Prefix counts
+        for (int i = 0; i < n; i++) {
+            if (i > 0) prf[i] = prf[i-1];
+            prf[i][s[i] - 'a']++;
         }
-      
-        int cnt=0;
 
-        //start from end until r == 0
-        int r=sz-1;
-        while(r>0){
-            //if i found the char ->> r - (minimum indx + 1)
-            if(mp.find(s[r]) !=mp.end() and r!=mp[s[r]]){
-                //calculate the duplicate (from r-1 to minimum indx )
-                int d=duplicate(mp[s[r]],r-1,frq);
-                //add the value 
-                cnt+=r-(mp[s[r]] + 1)-d;
+        // Suffix counts
+        for (int i = n - 1; i >= 0; i--) {
+            if (i < n - 1) suf[i] = suf[i+1];
+            suf[i][s[i] - 'a']++;
+        }
 
-                //becuse i already add the all subsequence
-                mp.erase(s[r]);
+        // Track which palindromes we’ve counted
+        vector<vector<bool>> counted(26, vector<bool>(26, false));
+        int ans = 0;
+
+        for (int i = 1; i < n - 1; i++) {
+            for (int c = 0; c < 26; c++) {
+                // Check if character c exists before and after s[i]
+                if (prf[i-1][c] > 0 && suf[i+1][c] > 0) {
+                    if (!counted[c][s[i]-'a']) {
+                        counted[c][s[i]-'a'] = true;
+                        ans++;
+                    }
+                }
             }
-            //decreasing the r
-            r--;
-        }  
-        return cnt;     
+        }
+
+        return ans;
     }
 };
