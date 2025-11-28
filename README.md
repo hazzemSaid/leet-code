@@ -93,6 +93,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/hazzemSaid/leet-code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hazzemSaid/leet-code/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/hazzemSaid/leet-code/tree/master/2358-number-of-ways-to-split-array) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/hazzemSaid/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -250,6 +251,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hazzemSaid/leet-code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/hazzemSaid/leet-code/tree/master/2145-grid-game) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hazzemSaid/leet-code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
@@ -362,6 +364,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
