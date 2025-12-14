@@ -404,6 +404,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hazzemSaid/leet-code/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/hazzemSaid/leet-code/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hazzemSaid/leet-code/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Geometry
 |  |
