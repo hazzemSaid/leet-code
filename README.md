@@ -75,6 +75,7 @@
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/hazzemSaid/leet-code/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/hazzemSaid/leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -308,6 +309,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/hazzemSaid/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) |
 | [0640-solve-the-equation](https://github.com/hazzemSaid/leet-code/tree/master/0640-solve-the-equation) |
+| [1390-four-divisors](https://github.com/hazzemSaid/leet-code/tree/master/1390-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) |
