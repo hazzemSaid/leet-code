@@ -77,6 +77,7 @@
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/hazzemSaid/leet-code/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/hazzemSaid/leet-code/tree/master/1396-count-servers-that-communicate) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hazzemSaid/leet-code/tree/master/1524-string-matching-in-an-array) |
@@ -376,6 +377,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hazzemSaid/leet-code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
