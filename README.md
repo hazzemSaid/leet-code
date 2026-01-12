@@ -73,6 +73,7 @@
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/hazzemSaid/leet-code/tree/master/1390-four-divisors) |
@@ -316,6 +317,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/hazzemSaid/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) |
 | [0640-solve-the-equation](https://github.com/hazzemSaid/leet-code/tree/master/0640-solve-the-equation) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hazzemSaid/leet-code/tree/master/1390-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) |
@@ -445,5 +447,6 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
