@@ -118,6 +118,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hazzemSaid/leet-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
@@ -165,6 +166,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hazzemSaid/leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String Matching
 |  |
 | ------- |
