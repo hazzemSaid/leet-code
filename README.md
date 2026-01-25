@@ -90,6 +90,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hazzemSaid/leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hazzemSaid/leet-code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/hazzemSaid/leet-code/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hazzemSaid/leet-code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2107-find-unique-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-grid-game](https://github.com/hazzemSaid/leet-code/tree/master/2145-grid-game) |
@@ -311,6 +312,7 @@
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hazzemSaid/leet-code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hazzemSaid/leet-code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hazzemSaid/leet-code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hazzemSaid/leet-code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
