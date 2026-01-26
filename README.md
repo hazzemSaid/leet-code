@@ -74,6 +74,7 @@
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/hazzemSaid/leet-code/tree/master/0952-word-subsets) |
+| [1200-minimum-absolute-difference](https://github.com/hazzemSaid/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hazzemSaid/leet-code/tree/master/1364-tuple-with-same-product) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
+| [1200-minimum-absolute-difference](https://github.com/hazzemSaid/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hazzemSaid/leet-code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hazzemSaid/leet-code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
