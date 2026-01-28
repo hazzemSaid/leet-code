@@ -129,6 +129,7 @@
 | [3453-separate-squares-i](https://github.com/hazzemSaid/leet-code/tree/master/3453-separate-squares-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hazzemSaid/leet-code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -274,6 +275,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hazzemSaid/leet-code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -399,6 +401,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
 | ------- |
