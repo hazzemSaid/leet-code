@@ -44,6 +44,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/hazzemSaid/leet-code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hazzemSaid/leet-code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
@@ -118,6 +119,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hazzemSaid/leet-code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hazzemSaid/leet-code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -281,6 +283,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hazzemSaid/leet-code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
@@ -473,5 +476,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hazzemSaid/leet-code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
