@@ -72,6 +72,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hazzemSaid/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
@@ -392,6 +393,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hazzemSaid/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
