@@ -123,6 +123,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hazzemSaid/leet-code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hazzemSaid/leet-code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hazzemSaid/leet-code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -332,6 +333,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hazzemSaid/leet-code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hazzemSaid/leet-code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hazzemSaid/leet-code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/hazzemSaid/leet-code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
