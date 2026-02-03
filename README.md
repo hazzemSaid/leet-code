@@ -133,6 +133,7 @@
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/hazzemSaid/leet-code/tree/master/3453-separate-squares-i) |
+| [3637-trionic-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) |
