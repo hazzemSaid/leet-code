@@ -130,6 +130,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hazzemSaid/leet-code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/hazzemSaid/leet-code/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/hazzemSaid/leet-code/tree/master/3453-separate-squares-i) |
@@ -360,6 +361,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hazzemSaid/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hazzemSaid/leet-code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3379-transformed-array](https://github.com/hazzemSaid/leet-code/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/hazzemSaid/leet-code/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
