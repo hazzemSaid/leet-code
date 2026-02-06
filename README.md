@@ -134,6 +134,7 @@
 | [3429-special-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/hazzemSaid/leet-code/tree/master/3453-separate-squares-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hazzemSaid/leet-code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/hazzemSaid/leet-code/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) |
@@ -339,6 +340,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hazzemSaid/leet-code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
 |  |
@@ -394,6 +396,7 @@
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/hazzemSaid/leet-code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
