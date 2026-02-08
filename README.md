@@ -299,6 +299,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0684-redundant-connection](https://github.com/hazzemSaid/leet-code/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/hazzemSaid/leet-code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) |
@@ -426,12 +427,14 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
