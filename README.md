@@ -206,6 +206,7 @@
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hazzemSaid/leet-code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hazzemSaid/leet-code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -306,6 +307,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/hazzemSaid/leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/hazzemSaid/leet-code/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hazzemSaid/leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -431,6 +433,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -505,4 +509,12 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hazzemSaid/leet-code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
