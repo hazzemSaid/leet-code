@@ -72,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hazzemSaid/leet-code/tree/master/0001-two-sum) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hazzemSaid/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -148,6 +149,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hazzemSaid/leet-code/tree/master/0001-two-sum) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hazzemSaid/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/hazzemSaid/leet-code/tree/master/0940-fruit-into-baskets) |
