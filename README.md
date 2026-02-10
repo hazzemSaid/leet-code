@@ -355,6 +355,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hazzemSaid/leet-code/tree/master/0009-palindrome-number) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hazzemSaid/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
@@ -366,7 +367,6 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) |
-| [0009-palindrome-number](https://github.com/hazzemSaid/leet-code/tree/master/0009-palindrome-number) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Simulation
 |  |
 | ------- |
