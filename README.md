@@ -175,7 +175,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 |  |
 | ------- |
@@ -252,8 +251,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Backtracking
 |  |
 | ------- |
@@ -261,7 +260,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hazzemSaid/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2107-find-unique-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/2107-find-unique-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Binary Search
 |  |
 | ------- |
@@ -274,12 +272,11 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
+| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Binary Tree
 |  |
 | ------- |
@@ -288,7 +285,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Bit Manipulation
 |  |
 | ------- |
@@ -302,12 +298,10 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Brainteaser
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hazzemSaid/leet-code/tree/master/2533-bitwise-xor-of-all-pairings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Breadth-First Search
 |  |
 | ------- |
@@ -323,12 +317,10 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/hazzemSaid/leet-code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Combinatorics
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Counting
 |  |
 | ------- |
@@ -338,12 +330,10 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) ![js](https://img.shields.io/badge/js-gray?style=flat) |
-
 ## Database
 |  |
 | ------- |
@@ -375,7 +365,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1174-immediate-food-delivery-ii](https://github.com/hazzemSaid/leet-code/tree/master/1174-immediate-food-delivery-ii) ![sql](https://img.shields.io/badge/sql-gray?style=flat) |
 | [1193-monthly-transactions-i](https://github.com/hazzemSaid/leet-code/tree/master/1193-monthly-transactions-i) ![sql](https://img.shields.io/badge/sql-gray?style=flat) |
 | [1934-confirmation-rate](https://github.com/hazzemSaid/leet-code/tree/master/1934-confirmation-rate) ![sql](https://img.shields.io/badge/sql-gray?style=flat) |
-
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,19 +380,16 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/2764-maximum-number-of-fish-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hazzemSaid/leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Design
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hazzemSaid/leet-code/tree/master/1477-product-of-the-last-k-numbers) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [3678-design-task-manager](https://github.com/hazzemSaid/leet-code/tree/master/3678-design-task-manager) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Divide and Conquer
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Dynamic Programming
 |  |
 | ------- |
@@ -415,7 +401,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Enumeration
 |  |
 | ------- |
@@ -423,13 +408,11 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hazzemSaid/leet-code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Graph
 |  |
 | ------- |
@@ -441,14 +424,12 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hazzemSaid/leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/hazzemSaid/leet-code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Graph Theory
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hazzemSaid/leet-code/tree/master/2976-minimum-cost-to-convert-string-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hazzemSaid/leet-code/tree/master/3650-minimum-cost-path-with-edge-reversals) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Greedy
 |  |
 | ------- |
@@ -466,12 +447,10 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Hash Function
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Hash Table
 |  |
 | ------- |
@@ -500,7 +479,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -510,7 +488,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3678-design-task-manager](https://github.com/hazzemSaid/leet-code/tree/master/3678-design-task-manager) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0407-trapping-rain-water-ii](https://github.com/hazzemSaid/leet-code/tree/master/0407-trapping-rain-water-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Math
 |  |
 | ------- |
@@ -526,7 +503,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Matrix
 |  |
 | ------- |
@@ -541,18 +517,15 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3678-design-task-manager](https://github.com/hazzemSaid/leet-code/tree/master/3678-design-task-manager) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Prefix Sum
 |  |
 | ------- |
@@ -570,24 +543,20 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2050-count-good-numbers](https://github.com/hazzemSaid/leet-code/tree/master/2050-count-good-numbers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Rolling Hash
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Segment Tree
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Shortest Path
 |  |
 | ------- |
@@ -596,7 +565,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/hazzemSaid/leet-code/tree/master/3650-minimum-cost-path-with-edge-reversals) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hazzemSaid/leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Simulation
 |  |
 | ------- |
@@ -608,7 +576,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hazzemSaid/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Sliding Window
 |  |
 | ------- |
@@ -620,7 +587,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3634-minimum-removals-to-balance-array](https://github.com/hazzemSaid/leet-code/tree/master/3634-minimum-removals-to-balance-array) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Sorting
 |  |
 | ------- |
@@ -639,7 +605,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Stack
 |  |
 | ------- |
@@ -649,7 +614,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hazzemSaid/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hazzemSaid/leet-code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## String
 |  |
 | ------- |
@@ -682,14 +646,12 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/hazzemSaid/leet-code/tree/master/1524-string-matching-in-an-array) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hazzemSaid/leet-code/tree/master/2292-counting-words-with-a-given-prefix) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Topological Sort
 |  |
 | ------- |
@@ -698,7 +660,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hazzemSaid/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hazzemSaid/leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Tree
 |  |
 | ------- |
@@ -707,13 +668,11 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hazzemSaid/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hazzemSaid/leet-code/tree/master/1339-maximum-product-of-splitted-binary-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Trie
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hazzemSaid/leet-code/tree/master/3309-count-prefix-and-suffix-pairs-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Two Pointers
 |  |
 | ------- |
@@ -722,7 +681,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 ## Union Find
 |  |
 | ------- |
@@ -732,5 +690,4 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hazzemSaid/leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0854-making-a-large-island](https://github.com/hazzemSaid/leet-code/tree/master/0854-making-a-large-island) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/hazzemSaid/leet-code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-
 <!---LeetCode Topics End-->
