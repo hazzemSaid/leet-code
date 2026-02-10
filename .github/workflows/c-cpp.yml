@@ -1,23 +1,40 @@
-name: C/C++ CI
+name: LeetCode CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
-    - name: configure
-      run: cmake .
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+
+    - name: Install tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y g++ python3 nodejs npm
+
+    - name: Check C++ files
+      run: |
+        for file in $(find . -name "*.cpp"); do
+          echo "Compiling $file"
+          g++ -std=c++17 "$file" -o /tmp/a.out || exit 1
+        done
+
+    - name: Check Python files
+      run: |
+        for file in $(find . -name "*.py"); do
+          echo "Checking syntax $file"
+          python3 -m py_compile "$file" || exit 1
+        done
+
+    - name: Check JavaScript files
+      run: |
+        for file in $(find . -name "*.js"); do
+          echo "Checking syntax $file"
+          node --check "$file" || exit 1
+        done
