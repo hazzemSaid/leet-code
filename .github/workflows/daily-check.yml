@@ -2,7 +2,7 @@ name: Notify if no push today
 
 on:
   schedule:
-    - cron: '20 19 * * *'   # 4 PM Egypt time (UTC+2)
+    - cron: '25 19 * * *'   # 4 PM Egypt time (UTC+2)
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
           echo "commits=$COMMITS" >> $GITHUB_OUTPUT
 
       - name: Send email if no commits
-        if: steps.check.outputs.commits == '0'
+        if: steps.check.outputs.commits == '1'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -30,6 +30,6 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: No commits today
-          body: You didn't push anything today.
+          body: You did push anything today.
           to: your-email@gmail.com
           from: GitHub Reminder
