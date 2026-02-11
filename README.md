@@ -179,6 +179,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hazzemSaid/leet-code/tree/master/0001-two-sum) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) ![js](https://img.shields.io/badge/js-gray?style=flat) |
+| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hazzemSaid/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1200-minimum-absolute-difference](https://github.com/hazzemSaid/leet-code/tree/master/1200-minimum-absolute-difference) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -251,8 +252,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +264,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hazzemSaid/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hazzemSaid/leet-code/tree/master/1335-maximum-candies-allocated-to-k-children) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -272,7 +274,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0035-search-insert-position](https://github.com/hazzemSaid/leet-code/tree/master/0035-search-insert-position) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -390,6 +391,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -479,6 +481,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -543,6 +546,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Recursion
 |  |
 | ------- |
@@ -557,6 +561,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hazzemSaid/leet-code/tree/master/3790-fruits-into-baskets-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Shortest Path
 |  |
 | ------- |
