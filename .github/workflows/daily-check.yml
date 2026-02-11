@@ -31,7 +31,7 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Push confirmed
           body: You already pushed today. Good job.
-          to: your-email@gmail.com
+          to: ${{ secrets.EMAIL_USERNAME }}
           from: GitHub Reminder
 
       - name: Send alert email
@@ -44,5 +44,5 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: No push today
           body: You did not push anything today.
-          to: your-email@gmail.com
+          to:  ${{ secrets.EMAIL_USERNAME }}
           from: GitHub Reminder
