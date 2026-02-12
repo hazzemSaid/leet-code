@@ -252,8 +252,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Backtracking
 |  |
 | ------- |
@@ -331,6 +331,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1502-construct-k-palindrome-strings](https://github.com/hazzemSaid/leet-code/tree/master/1502-construct-k-palindrome-strings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2448-count-number-of-bad-pairs](https://github.com/hazzemSaid/leet-code/tree/master/2448-count-number-of-bad-pairs) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Data Stream
 |  |
 | ------- |
@@ -410,6 +411,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hazzemSaid/leet-code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Geometry
 |  |
 | ------- |
@@ -482,6 +484,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -651,6 +654,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
