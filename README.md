@@ -403,6 +403,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/1458-max-dot-product-of-two-subsequences) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0799-champagne-tower](https://github.com/hazzemSaid/leet-code/tree/master/0799-champagne-tower) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Enumeration
 |  |
@@ -481,11 +482,11 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3678-design-task-manager](https://github.com/hazzemSaid/leet-code/tree/master/3678-design-task-manager) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -546,12 +547,12 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2529-range-product-queries-of-powers](https://github.com/hazzemSaid/leet-code/tree/master/2529-range-product-queries-of-powers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hazzemSaid/leet-code/tree/master/2691-count-vowel-strings-in-ranges) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3643-zero-array-transformation-ii](https://github.com/hazzemSaid/leet-code/tree/master/3643-zero-array-transformation-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hazzemSaid/leet-code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Recursion
 |  |
 | ------- |
@@ -656,8 +657,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3455-minimum-length-of-string-after-operations](https://github.com/hazzemSaid/leet-code/tree/master/3455-minimum-length-of-string-after-operations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
