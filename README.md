@@ -299,6 +299,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Brainteaser
 |  |
 | ------- |
@@ -397,13 +398,13 @@ This repository contains my LeetCode solutions in multiple programming languages
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hazzemSaid/leet-code/tree/master/0118-pascals-triangle) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0799-champagne-tower](https://github.com/hazzemSaid/leet-code/tree/master/0799-champagne-tower) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/hazzemSaid/leet-code/tree/master/1653-minimum-deletions-to-make-string-balanced) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hazzemSaid/leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hazzemSaid/leet-code/tree/master/1411-number-of-ways-to-paint-n-3-grid) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/1458-max-dot-product-of-two-subsequences) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hazzemSaid/leet-code/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0799-champagne-tower](https://github.com/hazzemSaid/leet-code/tree/master/0799-champagne-tower) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/hazzemSaid/leet-code/tree/master/3651-minimum-cost-path-with-teleportations) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Enumeration
 |  |
@@ -511,6 +512,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Matrix
 |  |
 | ------- |
@@ -587,6 +589,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hazzemSaid/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hazzemSaid/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Sliding Window
 |  |
 | ------- |
@@ -659,6 +662,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
