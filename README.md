@@ -257,11 +257,11 @@ This repository contains my LeetCode solutions in multiple programming languages
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/hazzemSaid/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hazzemSaid/leet-code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2107-find-unique-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/2107-find-unique-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hazzemSaid/leet-code/tree/master/2456-construct-smallest-number-from-di-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +293,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0190-reverse-bits](https://github.com/hazzemSaid/leet-code/tree/master/0190-reverse-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -302,7 +303,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0693-binary-number-with-alternating-bits](https://github.com/hazzemSaid/leet-code/tree/master/0693-binary-number-with-alternating-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Brainteaser
 |  |
 | ------- |
