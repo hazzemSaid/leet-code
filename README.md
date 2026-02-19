@@ -294,6 +294,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0190-reverse-bits](https://github.com/hazzemSaid/leet-code/tree/master/0190-reverse-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0693-binary-number-with-alternating-bits](https://github.com/hazzemSaid/leet-code/tree/master/0693-binary-number-with-alternating-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -303,7 +304,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0693-binary-number-with-alternating-bits](https://github.com/hazzemSaid/leet-code/tree/master/0693-binary-number-with-alternating-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Brainteaser
 |  |
 | ------- |
@@ -668,6 +668,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
@@ -703,6 +704,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Union Find
 |  |
 | ------- |
