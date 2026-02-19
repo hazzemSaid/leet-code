@@ -637,6 +637,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1524-string-matching-in-an-array](https://github.com/hazzemSaid/leet-code/tree/master/1524-string-matching-in-an-array) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hazzemSaid/leet-code/tree/master/1537-maximum-score-after-splitting-a-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hazzemSaid/leet-code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) ![js](https://img.shields.io/badge/js-gray?style=flat) |
@@ -668,7 +669,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
@@ -699,12 +699,12 @@ This repository contains my LeetCode solutions in multiple programming languages
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0768-partition-labels](https://github.com/hazzemSaid/leet-code/tree/master/0768-partition-labels) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hazzemSaid/leet-code/tree/master/1877-minimize-maximum-pair-sum-in-array) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hazzemSaid/leet-code/tree/master/2265-partition-array-according-to-given-pivot) ![js](https://img.shields.io/badge/js-gray?style=flat) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hazzemSaid/leet-code/tree/master/2497-maximum-matching-of-players-with-trainers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hazzemSaid/leet-code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0696-count-binary-substrings](https://github.com/hazzemSaid/leet-code/tree/master/0696-count-binary-substrings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Union Find
 |  |
 | ------- |
