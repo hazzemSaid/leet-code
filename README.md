@@ -399,6 +399,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -624,6 +625,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Stack
 |  |
 | ------- |
@@ -669,6 +671,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
