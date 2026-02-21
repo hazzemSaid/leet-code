@@ -304,6 +304,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Brainteaser
 |  |
 | ------- |
@@ -398,8 +399,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0190-reverse-bits](https://github.com/hazzemSaid/leet-code/tree/master/0190-reverse-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1382-balance-a-binary-search-tree](https://github.com/hazzemSaid/leet-code/tree/master/1382-balance-a-binary-search-tree) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3719-longest-balanced-subarray-i](https://github.com/hazzemSaid/leet-code/tree/master/3719-longest-balanced-subarray-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [3721-longest-balanced-subarray-ii](https://github.com/hazzemSaid/leet-code/tree/master/3721-longest-balanced-subarray-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -519,6 +520,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Matrix
 |  |
 | ------- |
@@ -622,10 +624,10 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3430-count-days-without-meetings](https://github.com/hazzemSaid/leet-code/tree/master/3430-count-days-without-meetings) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3634-minimum-removals-to-balance-array](https://github.com/hazzemSaid/leet-code/tree/master/3634-minimum-removals-to-balance-array) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hazzemSaid/leet-code/tree/master/0759-set-intersection-size-at-least-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hazzemSaid/leet-code/tree/master/2141-maximum-running-time-of-n-computers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2689-rearranging-fruits](https://github.com/hazzemSaid/leet-code/tree/master/2689-rearranging-fruits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hazzemSaid/leet-code/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Stack
 |  |
 | ------- |
@@ -670,8 +672,8 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hazzemSaid/leet-code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3713-longest-balanced-substring-i](https://github.com/hazzemSaid/leet-code/tree/master/3713-longest-balanced-substring-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3714-longest-balanced-substring-ii](https://github.com/hazzemSaid/leet-code/tree/master/3714-longest-balanced-substring-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0761-special-binary-string](https://github.com/hazzemSaid/leet-code/tree/master/0761-special-binary-string) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/hazzemSaid/leet-code/tree/master/2977-minimum-cost-to-convert-string-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## String Matching
 |  |
 | ------- |
