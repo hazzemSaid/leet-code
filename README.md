@@ -295,6 +295,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0401-binary-watch](https://github.com/hazzemSaid/leet-code/tree/master/0401-binary-watch) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hazzemSaid/leet-code/tree/master/0693-binary-number-with-alternating-bits) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hazzemSaid/leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2478-longest-nice-subarray](https://github.com/hazzemSaid/leet-code/tree/master/2478-longest-nice-subarray) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hazzemSaid/leet-code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -304,7 +305,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hazzemSaid/leet-code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [2792-neighboring-bitwise-xor](https://github.com/hazzemSaid/leet-code/tree/master/2792-neighboring-bitwise-xor) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/hazzemSaid/leet-code/tree/master/3315-construct-the-minimum-bitwise-array-ii) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0868-binary-gap](https://github.com/hazzemSaid/leet-code/tree/master/0868-binary-gap) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Brainteaser
 |  |
 | ------- |
@@ -510,6 +511,7 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [0009-palindrome-number](https://github.com/hazzemSaid/leet-code/tree/master/0009-palindrome-number) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0067-add-binary](https://github.com/hazzemSaid/leet-code/tree/master/0067-add-binary) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0231-power-of-two](https://github.com/hazzemSaid/leet-code/tree/master/0231-power-of-two) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hazzemSaid/leet-code/tree/master/1266-minimum-time-visiting-all-points) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hazzemSaid/leet-code/tree/master/0166-fraction-to-recurring-decimal) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [0640-solve-the-equation](https://github.com/hazzemSaid/leet-code/tree/master/0640-solve-the-equation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
@@ -520,7 +522,6 @@ This repository contains my LeetCode solutions in multiple programming languages
 | [2610-closest-prime-numbers-in-range](https://github.com/hazzemSaid/leet-code/tree/master/2610-closest-prime-numbers-in-range) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hazzemSaid/leet-code/tree/master/3278-find-the-number-of-ways-to-place-people-i) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 | [3548-find-the-count-of-good-integers](https://github.com/hazzemSaid/leet-code/tree/master/3548-find-the-count-of-good-integers) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
-| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hazzemSaid/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) ![cpp](https://img.shields.io/badge/cpp-gray?style=flat) |
 ## Matrix
 |  |
 | ------- |
